@@ -16,6 +16,7 @@ You don't need to be right the first time. You just need to be right once. I get
 
 # Examples
 Take a look at these couple examples that I have in my own portfolio:
+
 **Flappy Bird:** https://github.com/ZehavaBatya/Flappy-Bird
 
 **Personal Site:** https://github.com/ZehavaBatya/Personal-Site
